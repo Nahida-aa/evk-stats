@@ -1,0 +1,170 @@
+{
+  "username": "Nahida-aa",
+  "mode": "aggregated",
+  "repository_count": 38,
+  "total_bytes": 13144891,
+  "languages": [
+    {
+      "name": "TypeScript",
+      "bytes": 6017603,
+      "percent": 45.8,
+      "color": "#3178c6"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 3013613,
+      "percent": 22.9,
+      "color": "#DA5B0B"
+    },
+    {
+      "name": "HTML",
+      "bytes": 1116712,
+      "percent": 8.5,
+      "color": "#e34c26"
+    },
+    {
+      "name": "Python",
+      "bytes": 1009860,
+      "percent": 7.7,
+      "color": "#3572A5"
+    },
+    {
+      "name": "CSS",
+      "bytes": 851483,
+      "percent": 6.5,
+      "color": "#663399"
+    },
+    {
+      "name": "MDX",
+      "bytes": 284988,
+      "percent": 2.2,
+      "color": "#fcb32c"
+    },
+    {
+      "name": "C++",
+      "bytes": 264292,
+      "percent": 2,
+      "color": "#f34b7d"
+    },
+    {
+      "name": "TeX",
+      "bytes": 147094,
+      "percent": 1.1,
+      "color": "#3D6117"
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 124642,
+      "percent": 0.9,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "Vue",
+      "bytes": 77340,
+      "percent": 0.6,
+      "color": "#41b883"
+    },
+    {
+      "name": "C",
+      "bytes": 63403,
+      "percent": 0.5,
+      "color": "#555555"
+    },
+    {
+      "name": "QML",
+      "bytes": 48449,
+      "percent": 0.4,
+      "color": "#44a51c"
+    },
+    {
+      "name": "Makefile",
+      "bytes": 22721,
+      "percent": 0.2,
+      "color": "#427819"
+    },
+    {
+      "name": "CMake",
+      "bytes": 21077,
+      "percent": 0.2,
+      "color": "#DA3434"
+    },
+    {
+      "name": "Java",
+      "bytes": 17155,
+      "percent": 0.1,
+      "color": "#b07219"
+    },
+    {
+      "name": "Nix",
+      "bytes": 15398,
+      "percent": 0.1,
+      "color": "#7e7eff"
+    },
+    {
+      "name": "Shell",
+      "bytes": 14851,
+      "percent": 0.1,
+      "color": "#89e051"
+    },
+    {
+      "name": "Rust",
+      "bytes": 10137,
+      "percent": 0.1,
+      "color": "#dea584"
+    },
+    {
+      "name": "Batchfile",
+      "bytes": 7567,
+      "percent": 0.1,
+      "color": "#C1F12E"
+    },
+    {
+      "name": "SCSS",
+      "bytes": 5945,
+      "percent": 0,
+      "color": "#c6538c"
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 4974,
+      "percent": 0,
+      "color": "#384d54"
+    },
+    {
+      "name": "Astro",
+      "bytes": 2746,
+      "percent": 0,
+      "color": "#ff5a03"
+    },
+    {
+      "name": "Cython",
+      "bytes": 1190,
+      "percent": 0,
+      "color": "#fedf5b"
+    },
+    {
+      "name": "Standard ML",
+      "bytes": 833,
+      "percent": 0,
+      "color": "#dc566d"
+    },
+    {
+      "name": "Mako",
+      "bytes": 664,
+      "percent": 0,
+      "color": "#7e858d"
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 110,
+      "percent": 0,
+      "color": "#012456"
+    },
+    {
+      "name": "Kotlin",
+      "bytes": 44,
+      "percent": 0,
+      "color": "#A97BFF"
+    }
+  ]
+}

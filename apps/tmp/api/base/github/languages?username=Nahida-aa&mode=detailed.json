@@ -1,0 +1,932 @@
+{
+  "username": "Nahida-aa",
+  "mode": "detailed",
+  "repository_count": 38,
+  "repositories": [
+    {
+      "name": "Nahida-aa",
+      "full_name": "Nahida-aa/Nahida-aa",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "copy-to-run",
+      "full_name": "Nahida-aa/copy-to-run",
+      "total_bytes": 113030,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 107751,
+          "percent": 95.3,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 5279,
+          "percent": 4.7,
+          "color": "#563d7c"
+        }
+      ]
+    },
+    {
+      "name": "lab",
+      "full_name": "Nahida-aa/lab",
+      "total_bytes": 6774451,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 4004099,
+          "percent": 59.1,
+          "color": "#3178c6"
+        },
+        {
+          "name": "MDX",
+          "bytes": 828560,
+          "percent": 12.2,
+          "color": "#ccc"
+        },
+        {
+          "name": "Python",
+          "bytes": 777345,
+          "percent": 11.5,
+          "color": "#3572a5"
+        },
+        {
+          "name": "CSS",
+          "bytes": 701749,
+          "percent": 10.4,
+          "color": "#563d7c"
+        },
+        {
+          "name": "HTML",
+          "bytes": 237092,
+          "percent": 3.5,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Vue",
+          "bytes": 77340,
+          "percent": 1.1,
+          "color": "#4fc08d"
+        },
+        {
+          "name": "C++",
+          "bytes": 57151,
+          "percent": 0.8,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 49057,
+          "percent": 0.7,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Shell",
+          "bytes": 14325,
+          "percent": 0.2,
+          "color": "#89e051"
+        },
+        {
+          "name": "Rust",
+          "bytes": 8010,
+          "percent": 0.1,
+          "color": "#dea584"
+        },
+        {
+          "name": "Nix",
+          "bytes": 7699,
+          "percent": 0.1,
+          "color": "#ccc"
+        },
+        {
+          "name": "SCSS",
+          "bytes": 5945,
+          "percent": 0.1,
+          "color": "#ccc"
+        },
+        {
+          "name": "Dockerfile",
+          "bytes": 4161,
+          "percent": 0.1,
+          "color": "#ccc"
+        },
+        {
+          "name": "Batchfile",
+          "bytes": 714,
+          "percent": 0,
+          "color": "#ccc"
+        },
+        {
+          "name": "Mako",
+          "bytes": 664,
+          "percent": 0,
+          "color": "#ccc"
+        },
+        {
+          "name": "Java",
+          "bytes": 352,
+          "percent": 0,
+          "color": "#b07219"
+        },
+        {
+          "name": "C",
+          "bytes": 144,
+          "percent": 0,
+          "color": "#555555"
+        },
+        {
+          "name": "Kotlin",
+          "bytes": 44,
+          "percent": 0,
+          "color": "#a97bff"
+        }
+      ]
+    },
+    {
+      "name": "Nahida-aa.github.io",
+      "full_name": "Nahida-aa/Nahida-aa.github.io",
+      "total_bytes": 40462,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 14424,
+          "percent": 35.6,
+          "color": "#3178c6"
+        },
+        {
+          "name": "Nix",
+          "bytes": 7699,
+          "percent": 19,
+          "color": "#ccc"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 7462,
+          "percent": 18.4,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "C",
+          "bytes": 3935,
+          "percent": 9.7,
+          "color": "#555555"
+        },
+        {
+          "name": "Astro",
+          "bytes": 2134,
+          "percent": 5.3,
+          "color": "#ccc"
+        },
+        {
+          "name": "CSS",
+          "bytes": 1889,
+          "percent": 4.7,
+          "color": "#563d7c"
+        },
+        {
+          "name": "HTML",
+          "bytes": 1485,
+          "percent": 3.7,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Batchfile",
+          "bytes": 800,
+          "percent": 2,
+          "color": "#ccc"
+        },
+        {
+          "name": "Makefile",
+          "bytes": 634,
+          "percent": 1.6,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "themes",
+      "full_name": "Nahida-aa/themes",
+      "total_bytes": 62900,
+      "languages": [
+        {
+          "name": "QML",
+          "bytes": 48449,
+          "percent": 77,
+          "color": "#ccc"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "bytes": 10985,
+          "percent": 17.5,
+          "color": "#ccc"
+        },
+        {
+          "name": "TypeScript",
+          "bytes": 3466,
+          "percent": 5.5,
+          "color": "#3178c6"
+        }
+      ]
+    },
+    {
+      "name": "dotfiles",
+      "full_name": "Nahida-aa/dotfiles",
+      "total_bytes": 49495,
+      "languages": [
+        {
+          "name": "CSS",
+          "bytes": 37993,
+          "percent": 76.8,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 11502,
+          "percent": 23.2,
+          "color": "#f1e05a"
+        }
+      ]
+    },
+    {
+      "name": "agnostic-query",
+      "full_name": "Nahida-aa/agnostic-query",
+      "total_bytes": 103941,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 103108,
+          "percent": 99.2,
+          "color": "#3178c6"
+        },
+        {
+          "name": "Standard ML",
+          "bytes": 833,
+          "percent": 0.8,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "aacode",
+      "full_name": "Nahida-aa/aacode",
+      "total_bytes": 895299,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 869128,
+          "percent": 97.1,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 24617,
+          "percent": 2.7,
+          "color": "#563d7c"
+        },
+        {
+          "name": "Rust",
+          "bytes": 707,
+          "percent": 0.1,
+          "color": "#dea584"
+        },
+        {
+          "name": "HTML",
+          "bytes": 512,
+          "percent": 0.1,
+          "color": "#e34c26"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 335,
+          "percent": 0,
+          "color": "#f1e05a"
+        }
+      ]
+    },
+    {
+      "name": "icon",
+      "full_name": "Nahida-aa/icon",
+      "total_bytes": 158835,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 136908,
+          "percent": 86.2,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 12743,
+          "percent": 8,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 7199,
+          "percent": 4.5,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "MDX",
+          "bytes": 1373,
+          "percent": 0.9,
+          "color": "#ccc"
+        },
+        {
+          "name": "Astro",
+          "bytes": 612,
+          "percent": 0.4,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "tool",
+      "full_name": "Nahida-aa/tool",
+      "total_bytes": 32280,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 27316,
+          "percent": 84.6,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 4964,
+          "percent": 15.4,
+          "color": "#563d7c"
+        }
+      ]
+    },
+    {
+      "name": "chat",
+      "full_name": "Nahida-aa/chat",
+      "total_bytes": 309152,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 285328,
+          "percent": 92.3,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 17339,
+          "percent": 5.6,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 4176,
+          "percent": 1.4,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Rust",
+          "bytes": 1420,
+          "percent": 0.5,
+          "color": "#dea584"
+        },
+        {
+          "name": "HTML",
+          "bytes": 889,
+          "percent": 0.3,
+          "color": "#e34c26"
+        }
+      ]
+    },
+    {
+      "name": "evk-stats",
+      "full_name": "Nahida-aa/evk-stats",
+      "total_bytes": 19378,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 8955,
+          "percent": 46.2,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 7682,
+          "percent": 39.6,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 2741,
+          "percent": 14.1,
+          "color": "#f1e05a"
+        }
+      ]
+    },
+    {
+      "name": "evk-doc",
+      "full_name": "Nahida-aa/evk-doc",
+      "total_bytes": 657032,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 335889,
+          "percent": 51.1,
+          "color": "#3178c6"
+        },
+        {
+          "name": "MDX",
+          "bytes": 283615,
+          "percent": 43.2,
+          "color": "#ccc"
+        },
+        {
+          "name": "CSS",
+          "bytes": 19829,
+          "percent": 3,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 8219,
+          "percent": 1.3,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Python",
+          "bytes": 5445,
+          "percent": 0.8,
+          "color": "#3572a5"
+        },
+        {
+          "name": "HTML",
+          "bytes": 3329,
+          "percent": 0.5,
+          "color": "#e34c26"
+        },
+        {
+          "name": "TeX",
+          "bytes": 706,
+          "percent": 0.1,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "evk",
+      "full_name": "Nahida-aa/evk",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "mc-mod",
+      "full_name": "Nahida-aa/mc-mod",
+      "total_bytes": 20266,
+      "languages": [
+        {
+          "name": "Java",
+          "bytes": 16803,
+          "percent": 82.9,
+          "color": "#b07219"
+        },
+        {
+          "name": "Python",
+          "bytes": 3426,
+          "percent": 16.9,
+          "color": "#3572a5"
+        },
+        {
+          "name": "CSS",
+          "bytes": 37,
+          "percent": 0.2,
+          "color": "#563d7c"
+        }
+      ]
+    },
+    {
+      "name": "Minecraft-Threejs",
+      "full_name": "Nahida-aa/Minecraft-Threejs",
+      "total_bytes": 47459,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 46284,
+          "percent": 97.5,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 716,
+          "percent": 1.5,
+          "color": "#563d7c"
+        },
+        {
+          "name": "HTML",
+          "bytes": 459,
+          "percent": 1,
+          "color": "#e34c26"
+        }
+      ]
+    },
+    {
+      "name": "aatheme",
+      "full_name": "Nahida-aa/aatheme",
+      "total_bytes": 27144,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 15599,
+          "percent": 57.5,
+          "color": "#3178c6"
+        },
+        {
+          "name": "CSS",
+          "bytes": 10799,
+          "percent": 39.8,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 746,
+          "percent": 2.7,
+          "color": "#f1e05a"
+        }
+      ]
+    },
+    {
+      "name": "aa-ws",
+      "full_name": "Nahida-aa/aa-ws",
+      "total_bytes": 8114,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 4692,
+          "percent": 57.8,
+          "color": "#3178c6"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 3422,
+          "percent": 42.2,
+          "color": "#f1e05a"
+        }
+      ]
+    },
+    {
+      "name": "mdx-latex",
+      "full_name": "Nahida-aa/mdx-latex",
+      "total_bytes": 146388,
+      "languages": [
+        {
+          "name": "TeX",
+          "bytes": 146388,
+          "percent": 100,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "resume",
+      "full_name": "Nahida-aa/resume",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "Physical_and_chemical_test_of_air",
+      "full_name": "Nahida-aa/Physical_and_chemical_test_of_air",
+      "total_bytes": 2082741,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "bytes": 1211824,
+          "percent": 58.2,
+          "color": "#ccc"
+        },
+        {
+          "name": "HTML",
+          "bytes": 864986,
+          "percent": 41.5,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Python",
+          "bytes": 4556,
+          "percent": 0.2,
+          "color": "#3572a5"
+        },
+        {
+          "name": "Batchfile",
+          "bytes": 1058,
+          "percent": 0.1,
+          "color": "#ccc"
+        },
+        {
+          "name": "CSS",
+          "bytes": 207,
+          "percent": 0,
+          "color": "#563d7c"
+        },
+        {
+          "name": "PowerShell",
+          "bytes": 110,
+          "percent": 0,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "Computer_composition",
+      "full_name": "Nahida-aa/Computer_composition",
+      "total_bytes": 131779,
+      "languages": [
+        {
+          "name": "C",
+          "bytes": 58813,
+          "percent": 44.6,
+          "color": "#555555"
+        },
+        {
+          "name": "C++",
+          "bytes": 26804,
+          "percent": 20.3,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "Makefile",
+          "bytes": 22087,
+          "percent": 16.8,
+          "color": "#ccc"
+        },
+        {
+          "name": "CMake",
+          "bytes": 21077,
+          "percent": 16,
+          "color": "#ccc"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "bytes": 1806,
+          "percent": 1.4,
+          "color": "#ccc"
+        },
+        {
+          "name": "HTML",
+          "bytes": 791,
+          "percent": 0.6,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Shell",
+          "bytes": 290,
+          "percent": 0.2,
+          "color": "#89e051"
+        },
+        {
+          "name": "TypeScript",
+          "bytes": 111,
+          "percent": 0.1,
+          "color": "#3178c6"
+        }
+      ]
+    },
+    {
+      "name": "http-cpp",
+      "full_name": "Nahida-aa/http-cpp",
+      "total_bytes": 223936,
+      "languages": [
+        {
+          "name": "C++",
+          "bytes": 180337,
+          "percent": 80.5,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 24855,
+          "percent": 11.1,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "HTML",
+          "bytes": 6482,
+          "percent": 2.9,
+          "color": "#e34c26"
+        },
+        {
+          "name": "Batchfile",
+          "bytes": 4925,
+          "percent": 2.2,
+          "color": "#ccc"
+        },
+        {
+          "name": "CSS",
+          "bytes": 4456,
+          "percent": 2,
+          "color": "#563d7c"
+        },
+        {
+          "name": "Python",
+          "bytes": 2881,
+          "percent": 1.3,
+          "color": "#3572a5"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "full_name": "Nahida-aa/friends",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "avatar",
+      "full_name": "Nahida-aa/avatar",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "clinical-test",
+      "full_name": "Nahida-aa/clinical-test",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "auth",
+      "full_name": "Nahida-aa/auth",
+      "total_bytes": 1751,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 887,
+          "percent": 50.7,
+          "color": "#3178c6"
+        },
+        {
+          "name": "HTML",
+          "bytes": 687,
+          "percent": 39.2,
+          "color": "#e34c26"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 177,
+          "percent": 10.1,
+          "color": "#f1e05a"
+        }
+      ]
+    },
+    {
+      "name": "GAN",
+      "full_name": "Nahida-aa/GAN",
+      "total_bytes": 1747747,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "bytes": 1726554,
+          "percent": 98.8,
+          "color": "#ccc"
+        },
+        {
+          "name": "Python",
+          "bytes": 21071,
+          "percent": 1.2,
+          "color": "#3572a5"
+        },
+        {
+          "name": "Batchfile",
+          "bytes": 70,
+          "percent": 0,
+          "color": "#ccc"
+        },
+        {
+          "name": "Shell",
+          "bytes": 52,
+          "percent": 0,
+          "color": "#89e051"
+        }
+      ]
+    },
+    {
+      "name": "aa-home",
+      "full_name": "Nahida-aa/aa-home",
+      "total_bytes": 236301,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "bytes": 161409,
+          "percent": 68.3,
+          "color": "#3178c6"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "bytes": 62444,
+          "percent": 26.4,
+          "color": "#ccc"
+        },
+        {
+          "name": "CSS",
+          "bytes": 6463,
+          "percent": 2.7,
+          "color": "#563d7c"
+        },
+        {
+          "name": "JavaScript",
+          "bytes": 4751,
+          "percent": 2,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Dockerfile",
+          "bytes": 813,
+          "percent": 0.3,
+          "color": "#ccc"
+        },
+        {
+          "name": "Python",
+          "bytes": 237,
+          "percent": 0.1,
+          "color": "#3572a5"
+        },
+        {
+          "name": "Shell",
+          "bytes": 184,
+          "percent": 0.1,
+          "color": "#89e051"
+        }
+      ]
+    },
+    {
+      "name": "VITS-fast-fine-tuning",
+      "full_name": "Nahida-aa/VITS-fast-fine-tuning",
+      "total_bytes": 196089,
+      "languages": [
+        {
+          "name": "Python",
+          "bytes": 194899,
+          "percent": 99.4,
+          "color": "#3572a5"
+        },
+        {
+          "name": "Cython",
+          "bytes": 1190,
+          "percent": 0.6,
+          "color": "#ccc"
+        }
+      ]
+    },
+    {
+      "name": "abbreviation",
+      "full_name": "Nahida-aa/abbreviation",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "StarGAN-VC2",
+      "full_name": "Nahida-aa/StarGAN-VC2",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "Single-Chip_Microcomputer",
+      "full_name": "Nahida-aa/Single-Chip_Microcomputer",
+      "total_bytes": 511,
+      "languages": [
+        {
+          "name": "C",
+          "bytes": 511,
+          "percent": 100,
+          "color": "#555555"
+        }
+      ]
+    },
+    {
+      "name": "picgo",
+      "full_name": "Nahida-aa/picgo",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "Inspection_of_biomaterial",
+      "full_name": "Nahida-aa/Inspection_of_biomaterial",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "Hygiene",
+      "full_name": "Nahida-aa/Hygiene",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "math-modeling",
+      "full_name": "Nahida-aa/math-modeling",
+      "total_bytes": 0,
+      "languages": []
+    },
+    {
+      "name": "frist",
+      "full_name": "Nahida-aa/frist",
+      "total_bytes": 0,
+      "languages": []
+    }
+  ]
+}

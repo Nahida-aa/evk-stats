@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsgo --noEmit",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "$npm_execpath run build && vite preview",
+    "deploy": "$npm_execpath run build && wrangler deploy",
+    "cf-typegen": "wrangler types --env-interface CloudflareBindings"
+  },
+  "dependencies": {
+    "@hono/zod-validator": "^0.8.0",
+    "hono": "^4.12.21",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.2.3",
+    "@types/node": "^25.9.1",
+    "vite": "^6.3.5",
+    "vite-ssr-components": "^0.6.1",
+    "wrangler": "^4.17.0"
+  }
+}
